@@ -383,7 +383,6 @@ footer
 */
 .page-footer{
   height: 4rem;
-text-align: center;
   background: var(--black);
   color: var(--white);
   display: flex;
